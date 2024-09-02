@@ -1,7 +1,6 @@
 public class Atividade01_Verificacao_de_maioridade {
         public static void main(String[] args) {
 
-
             int Idade = 18;
 
             // Verificação de MAIORIDADE.
